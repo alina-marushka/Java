@@ -7,4 +7,3 @@ public class SizeMatters {
         System.out.println("Please fix me!");
     }
 }
-1
