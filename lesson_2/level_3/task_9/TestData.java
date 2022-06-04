@@ -36,8 +36,6 @@ public class TestData {
 
 
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/st-alina-marushka
+
+
