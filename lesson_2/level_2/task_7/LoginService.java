@@ -1,4 +1,4 @@
-package lesson2.level2.Task7;
+package lesson_2.level_2.task_7;
 
 public class LoginService {
     public static void main(String[] args) {
